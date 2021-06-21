@@ -1,0 +1,1 @@
+print("['Studay', 'hard', 'ok']")
